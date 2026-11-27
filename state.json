@@ -1,1 +1,1 @@
-{"v": 1, "payload": "{\"state\":\"off\",\"seq\":2,\"issued\":1795760058,\"note\":\"test\"}", "sig": "8107dcc6a05917d8d04421b743b8570ffe6fe4f7ec34329509d3727a37399317a52fb6464bbf4ab687bbacba1040e2aad975c4eefc469c069de1d87d3b768b0a"}
+{"v": 1, "payload": "{\"state\":\"on\",\"seq\":3,\"issued\":1795760076,\"note\":\"\"}", "sig": "8aae1d6ee188bd52be79cfa68ea965708c4538c978fb6f342bfee9ec6e392a6eee70c6f9a6b39d2711b69a42a93db43a10048b6fc3410ceaf157b40dfac7790c"}
