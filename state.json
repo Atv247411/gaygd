@@ -1,1 +1,1 @@
-{"v": 1, "payload": "{\"state\":\"off\",\"seq\":4,\"issued\":1795760331,\"note\":\"tắt tool rồi nhé\"}", "sig": "9f40944160ec4c772bd8991f00319278aadfc00923806d44b37414c0986f3954a4de5b8bb433d09b8f5d92692f7ad4eae71d06356c70163178f20b84db6e5b0e"}
+{"v": 1, "payload": "{\"state\":\"off\",\"seq\":5,\"issued\":1795760673,\"note\":\"test\"}", "sig": "9e4a8d72732352fd545016e8f970d84399db4773a34adf8fdbaa4cce5efd0bd83f214665b8f69236e78f4bc4eb5007c7ac8954b63e16a5c30ad5dd17e83b1304"}
