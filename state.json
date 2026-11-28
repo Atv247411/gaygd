@@ -1,1 +1,1 @@
-{"v": 1, "payload": "{\"state\":\"off\",\"seq\":42,\"issued\":1795825242,\"note\":\"Chủ tool đang buồn nên off tool hết buồn mở lại MyCatPC\"}", "sig": "87c2f78028a2ec52d6d8eca0bad4c5d8de742b8a7d07d81392873a809df8f03027c462ed77e5e2406e8f75f49cbd442f265673a54371fba8635b47b7f5722a09"}
+{"v": 1, "payload": "{\"state\":\"on\",\"seq\":43,\"issued\":1795831892,\"note\":\"g\"}", "sig": "74f94afc62af637f0a099a9d1bfe11090ffd6a79d6166cead3bddf0826f775a07265827f82feeb0da44c862f64e5b6e484efd5adf5f9d06646e96d49dee61007"}
